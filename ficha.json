@@ -1,0 +1,17 @@
+{
+  "formato": 1,
+  "equipos": [
+    {
+      "tipo": "CORE",
+      "version": "1.33.2",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/core-1.33.2.bin",
+      "bytes": 1523488,
+      "sha256": "fc3d925404b2e102d91d682cdd7b713eb10aa1f3763064fa5f115e8616fa925f",
+      "firma": "MEUCIFv6Gby9BNvqX3S9Q9YIYmJHi74mpPISDfFoaD1qr0BRAiEAruQs4ck8bCQJHNSXMtnwfg7g8AnMlwE3Z4NV1KtAtmU=",
+      "app_min": "",
+      "requiere": {},
+      "notas": "Respaldo de la central con el trato de los equipos"
+    }
+  ],
+  "fecha": "2026-11-01T23:56:03Z"
+}
