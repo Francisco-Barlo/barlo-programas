@@ -3,15 +3,15 @@
   "equipos": [
     {
       "tipo": "CORE",
-      "version": "1.35.0",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/core-1.35.0.bin",
+      "version": "1.35.1",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/core-1.35.1.bin",
       "bytes": 1526976,
-      "sha256": "ddf4e7f58864bd1b4618b35a075eb4d2b2a726eef3c30e6bd5c970aa3a673129",
-      "firma": "MEUCIHNK+oGpxkD929rT3b9qZySYBHxPckYV8TmQyreDOvQtAiEAhocBnU+0laV3WLWWrLLax9ukk8dSzQNpPlVkmqhSDCg=",
+      "sha256": "8c8eb48ac4c619e967fb7bf7c4bc87a11bb56782ac7d528d5711c983ccbc5e4c",
+      "firma": "MEUCIFTx3ZU/8itEUd5vE83eeLnedk0miJT16MrRoZcwA8MyAiEAlkHR5Rw6TFdsliEzgn7aWOtT5+RmeJtBDI9Jj+kKhdU=",
       "app_min": "",
       "requiere": {},
-      "notas": "Dice la dirección de cada equipo"
+      "notas": "Corrige la dirección de los equipos en la lista"
     }
   ],
-  "fecha": "2026-11-02T02:48:57Z"
+  "fecha": "2026-11-02T03:11:54Z"
 }
