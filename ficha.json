@@ -14,15 +14,15 @@
     },
     {
       "tipo": "PANT",
-      "version": "1.24.0",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.24.0.bin",
-      "bytes": 1330736,
-      "sha256": "8e432f4dfa5a54374d9e0430743117886e3c983a4f64f5d4c2054bb7199f35f5",
-      "firma": "MEUCIQCTEe3a7N+HlGx2Ucpc4LQcrhyhYPZEXe5W5tj5aCixTwIgQdLHJejyiJQP3qmJfUhNXo2zwJ/kCd/7sIvRykxSZY4=",
+      "version": "1.24.1",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.24.1.bin",
+      "bytes": 1331088,
+      "sha256": "87368699cf346ec45bdcdd92e3652d85fcd8123dcc36f3eb1a70f07c05b1ec8b",
+      "firma": "MEUCIQC+3fjiwHnfN8QJbCbKddbedAkXEmVo7izx8qPIv6Ht2AIgQXP1gNW+fxqujMqmG6n4elAZ/my60/DYD/9dhOovdK4=",
       "app_min": "",
       "requiere": {},
-      "notas": "La pantalla revisa la firma de Barlo"
+      "notas": "La pantalla revisa la firma de Barlo y no queda colgada si la subida se corta"
     }
   ],
-  "fecha": "2026-11-02T03:17:38Z"
+  "fecha": "2026-11-02T04:08:27Z"
 }
