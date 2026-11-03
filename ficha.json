@@ -14,15 +14,15 @@
     },
     {
       "tipo": "PANT",
-      "version": "1.24.1",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.24.1.bin",
-      "bytes": 1331088,
-      "sha256": "87368699cf346ec45bdcdd92e3652d85fcd8123dcc36f3eb1a70f07c05b1ec8b",
-      "firma": "MEUCIQC+3fjiwHnfN8QJbCbKddbedAkXEmVo7izx8qPIv6Ht2AIgQXP1gNW+fxqujMqmG6n4elAZ/my60/DYD/9dhOovdK4=",
+      "version": "1.25.0",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.25.0.bin",
+      "bytes": 1331664,
+      "sha256": "44b69c4e3111671ae1fd96afbd370f6e3fac27664efc638111fdf2908b01c0ae",
+      "firma": "MEQCIQDwot6R8wmp5vP09lzRQ6ruv/niAnM9wRD93rueMssdpQIffL8MJb30hbIc78mCl5ONGM8Q5pPg+y3TlK8Pj1AU+g==",
       "app_min": "",
       "requiere": {},
-      "notas": "La pantalla revisa la firma de Barlo y no queda colgada si la subida se corta"
+      "notas": "Recibe los programas por la central"
     }
   ],
-  "fecha": "2026-11-02T04:08:27Z"
+  "fecha": "2026-11-03T02:18:47Z"
 }
