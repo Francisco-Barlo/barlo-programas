@@ -14,15 +14,15 @@
     },
     {
       "tipo": "PANT",
-      "version": "1.25.0",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.25.0.bin",
+      "version": "1.25.1",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.25.1.bin",
       "bytes": 1331664,
-      "sha256": "44b69c4e3111671ae1fd96afbd370f6e3fac27664efc638111fdf2908b01c0ae",
-      "firma": "MEQCIQDwot6R8wmp5vP09lzRQ6ruv/niAnM9wRD93rueMssdpQIffL8MJb30hbIc78mCl5ONGM8Q5pPg+y3TlK8Pj1AU+g==",
+      "sha256": "e47f3d3d8f3ec4fb17dff856ae231e4f0b1210beb66e697f139ea94884f03108",
+      "firma": "MEYCIQDI++4YaZCwyDefDN8V+HiMCKxTinB3x02ye7Ip47bz2QIhAJTbuiUWaaVF9ouTm8CJUxuzxtRpvvMGxFroCXKJkund",
       "app_min": "",
       "requiere": {},
       "notas": "Recibe los programas por la central"
     }
   ],
-  "fecha": "2026-11-03T02:18:47Z"
+  "fecha": "2026-11-03T02:35:47Z"
 }
