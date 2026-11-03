@@ -2,17 +2,6 @@
   "formato": 1,
   "equipos": [
     {
-      "tipo": "CORE",
-      "version": "1.35.1",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/core-1.35.1.bin",
-      "bytes": 1526976,
-      "sha256": "8c8eb48ac4c619e967fb7bf7c4bc87a11bb56782ac7d528d5711c983ccbc5e4c",
-      "firma": "MEUCIFTx3ZU/8itEUd5vE83eeLnedk0miJT16MrRoZcwA8MyAiEAlkHR5Rw6TFdsliEzgn7aWOtT5+RmeJtBDI9Jj+kKhdU=",
-      "app_min": "",
-      "requiere": {},
-      "notas": "Corrige la dirección de los equipos en la lista"
-    },
-    {
       "tipo": "PANT",
       "version": "1.25.1",
       "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.25.1.bin",
@@ -22,7 +11,18 @@
       "app_min": "",
       "requiere": {},
       "notas": "Recibe los programas por la central"
+    },
+    {
+      "tipo": "CORE",
+      "version": "1.36.1",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/core-1.36.1.bin",
+      "bytes": 1532688,
+      "sha256": "c42eb8c389916238d22af2c38a0cdee4f44667e516c7665b373f3cd90091f741",
+      "firma": "MEUCICfj1bzfviwAQmPwIGhl0FWzjf3yot9YKp6FeJZycK0MAiEA27TBeRSLQhRg8w9IGsR74W95I4gUm5+ZteElBHz3SCg=",
+      "app_min": "",
+      "requiere": {},
+      "notas": "Les pasa los programas a los otros equipos"
     }
   ],
-  "fecha": "2026-11-03T02:35:47Z"
+  "fecha": "2026-11-03T03:01:18Z"
 }
