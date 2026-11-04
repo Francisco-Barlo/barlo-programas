@@ -2,17 +2,6 @@
   "formato": 1,
   "equipos": [
     {
-      "tipo": "PANT",
-      "version": "1.25.1",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.25.1.bin",
-      "bytes": 1331664,
-      "sha256": "e47f3d3d8f3ec4fb17dff856ae231e4f0b1210beb66e697f139ea94884f03108",
-      "firma": "MEYCIQDI++4YaZCwyDefDN8V+HiMCKxTinB3x02ye7Ip47bz2QIhAJTbuiUWaaVF9ouTm8CJUxuzxtRpvvMGxFroCXKJkund",
-      "app_min": "",
-      "requiere": {},
-      "notas": "Recibe los programas por la central"
-    },
-    {
       "tipo": "CORE",
       "version": "1.36.1",
       "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/core-1.36.1.bin",
@@ -22,7 +11,18 @@
       "app_min": "",
       "requiere": {},
       "notas": "Les pasa los programas a los otros equipos"
+    },
+    {
+      "tipo": "PANT",
+      "version": "1.26.0",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.26.0.bin",
+      "bytes": 1346080,
+      "sha256": "35e08b96b59d89d2590c2c88587cc364e96bbf634e3355ff56147e45ab595dba",
+      "firma": "MEUCIQCbHL/znBCVnt+e700Te91qtvCxsMHzcoQ9PI6OG1n+pAIgUl5IzjLgJUv75RkV9XRnm6pkkKR7bHWgEsgrkXbJrLE=",
+      "app_min": "",
+      "requiere": {},
+      "notas": "Aprende la red de su central y se suma por radio (hoja SUMARSE, mantener 3 s)"
     }
   ],
-  "fecha": "2026-11-03T03:01:18Z"
+  "fecha": "2026-11-04T05:42:43Z"
 }
