@@ -14,15 +14,15 @@
     },
     {
       "tipo": "PANT",
-      "version": "1.26.0",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.26.0.bin",
-      "bytes": 1346080,
-      "sha256": "35e08b96b59d89d2590c2c88587cc364e96bbf634e3355ff56147e45ab595dba",
-      "firma": "MEUCIQCbHL/znBCVnt+e700Te91qtvCxsMHzcoQ9PI6OG1n+pAIgUl5IzjLgJUv75RkV9XRnm6pkkKR7bHWgEsgrkXbJrLE=",
+      "version": "1.27.0",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.27.0.bin",
+      "bytes": 1347008,
+      "sha256": "b955a0b974c2f84cbaa2b146fc4b3909f9309a6b38efc265c0c24da1247ca288",
+      "firma": "MEUCIELmNNOKrF9Ogtula+z0C+PaUISED5Xy9xwDYDCsOXgAAiEAkDLlJbtiXtBZbG7DRX9Xovc+avxBgvNirHyxWpzVl1Y=",
       "app_min": "",
       "requiere": {},
-      "notas": "Aprende la red de su central y se suma por radio (hoja SUMARSE, mantener 3 s)"
+      "notas": "Recibe la contraseña nueva de la red del barco"
     }
   ],
-  "fecha": "2026-11-04T05:42:43Z"
+  "fecha": "2026-11-07T01:35:21Z"
 }
