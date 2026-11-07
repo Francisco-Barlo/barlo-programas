@@ -14,15 +14,15 @@
     },
     {
       "tipo": "PANT",
-      "version": "1.27.0",
-      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.27.0.bin",
-      "bytes": 1347008,
-      "sha256": "b955a0b974c2f84cbaa2b146fc4b3909f9309a6b38efc265c0c24da1247ca288",
-      "firma": "MEUCIELmNNOKrF9Ogtula+z0C+PaUISED5Xy9xwDYDCsOXgAAiEAkDLlJbtiXtBZbG7DRX9Xovc+avxBgvNirHyxWpzVl1Y=",
+      "version": "1.29.0",
+      "archivo": "https://raw.githubusercontent.com/Francisco-Barlo/barlo-programas/main/programas/pant-1.29.0.bin",
+      "bytes": 1352272,
+      "sha256": "77a672d2fff8b215737e0c6ae1b4ef935bcc60fcf320fabfa5348c243ac76368",
+      "firma": "MEYCIQCaiGKCampbM5DCnoMwka9lfGlanM9IIJVe9GalZYP08wIhAOyFM1HSdmX+SCuo6ThiBtOqBFv7NbPNLalEadsBUin5",
       "app_min": "",
       "requiere": {},
-      "notas": "Recibe la contraseña nueva de la red del barco"
+      "notas": "Sacada de mis equipos queda afuera y espera sola con su código"
     }
   ],
-  "fecha": "2026-11-07T01:35:21Z"
+  "fecha": "2026-11-07T10:38:53Z"
 }
